@@ -1,0 +1,8 @@
+{
+  "id": "658af77b-93a8-4317-95bb-5a33bf1e2ad2",
+  "exclude": [
+    "/**/.webdraw/drawings",
+    "/**/.webdraw/*.json",
+    "/**/chats"
+  ]
+}
